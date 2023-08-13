@@ -9247,11 +9247,11 @@ textarea.form-control-lg {
       border: 2px solid #fff; }
 
 .logo {
-  font-size: 24px;
+  font-size: 13px;
   color: #fff;
-  font-weight: 700; }
+  font-weight: 750; }
   .logo span {
-    color: rgba(255, 255, 255, 0.5) !important; }
+    color: rgba(255, 255, 0, 0.5) !important; }
   .logo:hover {
     color: #fff; }
 
